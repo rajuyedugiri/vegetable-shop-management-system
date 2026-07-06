@@ -24,6 +24,3 @@ The Vegetable Shop Management System is a mini project developed using Visual St
 
 # Technologies Used
 * Visual Studio Code
-
-# Author
-Raju Yedugiri
